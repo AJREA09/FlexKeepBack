@@ -8,8 +8,7 @@ Características
 ✔ Metas de ahorro
 ✔ Estadísticas
 ✔ Notificaciones
-✔ API REST
-✔ PostgreSQL
+
 
 Tecnologías
 
@@ -18,5 +17,5 @@ Tecnologías
 - Gradle
 - Android SDK
 - PostgreSQL
-- REST API
+- API REST
 - Docker
